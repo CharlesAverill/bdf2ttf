@@ -9,9 +9,16 @@
 #ifndef VERSION_H
 #define VERSION_H
 
+/*
 #define COPYRIGHT	"(C) 2003 KaoriYa";
 #define VERSION		"2.0"
 #define TRADEMARK	"KaoriYa"
 #define VENDORID	"KRN "
+*/
+
+#define COPYRIGHT ""
+#define VERSION ""
+#define TRADEMARK ""
+#define VENDORID ""
 
 #endif /* VERSION_H */
